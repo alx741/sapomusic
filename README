@@ -1,0 +1,10 @@
+SapoMusic is freesoftware, are released under GPLV3
+By: Daniel Campoverde Carrión [Alx741]  
+http://www.silly-bytes.blogspot.com
+
+<ADVERTENCIA> Vas a llorar cuando veas el codigo!
+Pero entiende que lo hice cuando era un chico aprendiendo php/html, 
+y solo lo publico en caso de que pudiera ser util de alguna forma a alguien
+...Ni que hablar de la seguridad.. ¬¬
+
+Antes de ejecutar el script "isntall.php" es necesario crear manualmente una nueva base de datos llamada "sapomusic" 
